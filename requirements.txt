@@ -3,3 +3,4 @@ pandas
 pydotplus
 sklearn 
 IPython
+graphviz
