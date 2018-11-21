@@ -4,3 +4,4 @@ pydotplus
 sklearn 
 IPython
 graphviz
+GraphViz
